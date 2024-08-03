@@ -18,4 +18,4 @@ MOdular program- dividing codebase into small modules
  Make functions in a file and export in another index.js 
  {Check out modules folder}
  
- 
+ Require function allows us to include and use external files in our javascript code
